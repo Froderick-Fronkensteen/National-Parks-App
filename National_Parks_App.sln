@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "National_Parks_App", "National_Parks_App\National_Parks_App.csproj", "{41D68CA8-2653-4B56-B9C8-8847F2B7DE3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "National_Parks_API", "National_Parks_API\National_Parks_API.csproj", "{38aef59d-25a6-4862-af74-207b3ae231ed}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41D68CA8-2653-4B56-B9C8-8847F2B7DE3F}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{41D68CA8-2653-4B56-B9C8-8847F2B7DE3F}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{41D68CA8-2653-4B56-B9C8-8847F2B7DE3F}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{41D68CA8-2653-4B56-B9C8-8847F2B7DE3F}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+EndGlobal
